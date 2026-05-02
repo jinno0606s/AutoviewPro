@@ -1,0 +1,6 @@
+{
+  "name": "event_timelapse",
+  "label": "タイムラプス",
+  "icon": "⏱",
+  "ui": "/plugins/event_timelapse/ui/TimelapseView.vue"
+}
